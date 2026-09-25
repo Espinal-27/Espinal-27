@@ -1,16 +1,37 @@
-## Hi there 👋
+# Andrés Espinal
 
-<!--
-**Espinal-27/Espinal-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollo de Software | Web | IT | Networking
 
-Here are some ideas to get you started:
+Estudiante de Desarrollo de Software interesado en desarrollo web,
+soporte tecnológico, redes y ciberseguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- C#
+- SQL
+- Windows Forms
+- Visual Studio
+
+## Proyectos
+
+### Mundo RP
+
+Página web desarrollada utilizando HTML, CSS y JavaScript.
+
+[Ver proyecto](https://espinal-27.github.io/mundo-rp/)
+
+[Ver código](https://github.com/Espinal-27/mundo-rp)
+
+## Actualmente
+
+- Desarrollando proyectos para fortalecer mis habilidades de programación.
+- Aprendiendo y practicando desarrollo de software.
+- Fortaleciendo conocimientos en redes y ciberseguridad.
+
+## Contacto
+
+GitHub: [Espinal-27](https://github.com/Espinal-27)
