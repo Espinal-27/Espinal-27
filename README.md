@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/GitHub-Espinal--27-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/notifications/?filter=all">
+<a href="https://www.linkedin.com/in/andres-espinal-ab78732a1/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -42,7 +42,7 @@ I enjoy turning ideas into functional applications and learning new technologies
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Mundo RP
 
@@ -60,6 +60,46 @@ A web project developed using **HTML5, CSS3 and JavaScript**, focused on creatin
 
 <a href="https://github.com/Espinal-27/mundo-rp">
 <img src="https://img.shields.io/badge/VIEW%20CODE-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+### Task Manager
+
+A web-based task management application developed with **HTML5, CSS3 and JavaScript**, featuring CRUD operations and browser-based data persistence using LocalStorage.
+
+**Technologies**
+
+`HTML5` `CSS3` `JavaScript` `LocalStorage`
+
+<div align="center">
+
+<a href="https://espinal-27.github.io/task-manager/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/Espinal-27/task-manager">
+<img src="https://img.shields.io/badge/VIEW%20CODE-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+### Inventory Management System
+
+A console-based inventory management application developed with **Java, SQLite, JDBC and Maven**, implementing CRUD operations and persistent database storage.
+
+**Technologies**
+
+`Java 17` `SQLite` `JDBC` `Maven` `SQL` `OOP`
+
+<div align="center">
+
+<a href="https://github.com/Espinal-27/inventory-management-system">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
